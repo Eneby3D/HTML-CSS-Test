@@ -35,3 +35,10 @@ h5 {
 .pizza {
     width: 50%;
 }
+
+
+.cake-images {
+    img {
+        width: 50%;
+    }
+}
